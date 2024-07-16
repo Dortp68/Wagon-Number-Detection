@@ -5,6 +5,9 @@ Wagon Number Detection with YOLOv8+easyocr
 
 Wagon number tracking [YOLOv8](https://github.com/ultralytics/ultralytics) and reading [easyocr](https://github.com/JaidedAI/EasyOCR)
 
+Install all requirements:
+```pip install -r requirements.txt```
+
 For usage:
 ```python main.py --mode "mode" --path "path_to_file"```
 
